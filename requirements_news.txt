@@ -1,0 +1,8 @@
+feedparser
+newspaper3k
+pywhatkit
+apscheduler
+twilio
+PyJSONViewer
+psycopg2
+selenium==3.141.0
